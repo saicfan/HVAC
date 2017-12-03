@@ -1,0 +1,6 @@
+Vehicle,Season,Weekday,Hour of Day,Trip Elapsed Minutes,Outside Temp,Inside Temp,Left Temp Change,Wind Level Change,Power Mode,Heading,Fuel,Avg. Speed,Avg. RPM,Left Temp,Wind Level
+57065,Summer,False,17.97,5.8,29,26,0.0,0.0,2.0,18.0,65.464,44.79,1348.78,19.0,3.0
+57065,Summer,True,8.1,0.1,27,32,0.0,1.0,2.0,84.0,48.608,0.0,779.0,19.0,4.0
+57065,Summer,True,16.67,32.35,30,28,-4.0,1.0,2.0,179.0,31.36,5.23,1015.67,22.0,3.0
+57065,Summer,True,15.72,3.62,32,39,0.0,1.0,2.0,269.0,69.776,24.2,1376.5,22.0,5.0
+57065,Summer,True,16.32,0.28,32,39,0.0,-1.0,2.0,110.0,69.384,0.0,912.0,22.0,5.0

@@ -1,0 +1,48 @@
+Vehicle,Season,Weekday,Hour of Day,Trip Elapsed Minutes,Outside Temp,Inside Temp,Left Temp Change,Wind Level Change,Weather - Type,Weather - Temp,Weather - Wind Speed,Weather - Humidity,Power Mode,Heading,Fuel,Avg. Speed,Avg. RPM,Left Temp Class,Left Temp,Wind Level,Wind Pattern
+57350,Fall,True,19.95,45.93,25,34,0.0,1.0,,,,,2.0,341.0,57.232,41.33,1336.52,Conventional,21.0,3.0,face
+57350,Fall,True,20.58,7.7,25,32,0.0,0.0,,,,,2.0,64.0,55.664,32.84,1489.29,Conventional,21.0,2.0,face
+57350,Fall,True,17.07,7.85,11,26,0.0,0.0,,,,,2.0,103.0,98.392,26.46,1136.86,Conventional,23.0,2.0,face
+57350,Fall,False,0.87,43.63,8,24,0.0,3.0,201.0,12.0,3.0,78.0,2.0,197.0,10.976,46.65,1269.56,Aggressive Heating,,4.0,face
+57350,Fall,False,17.48,18.3,8,16,0.0,0.0,100.0,8.0,3.0,98.0,2.0,113.0,36.848,2.55,861.93,Aggressive Heating,,4.0,face
+57350,Fall,False,8.98,4.35,9,10,0.0,0.0,100.0,8.0,3.0,92.0,2.0,20.0,11.76,0.0,860.0,Aggressive Heating,,4.0,face
+57350,Winter,True,11.5,6.33,15,22,0.0,0.0,212.0,16.0,3.0,97.0,2.0,311.0,52.528,25.99,1462.2,Aggressive Heating,,4.0,face
+57350,Winter,True,14.75,17.92,12,22,0.0,0.0,212.0,11.0,3.0,99.0,2.0,186.0,41.944,12.68,1180.36,Aggressive Heating,,4.0,face
+57350,Winter,False,21.37,1.52,17,17,0.0,0.0,,,,,2.0,158.0,16.856,13.38,1257.0,Aggressive Heating,,4.0,face
+57350,Winter,True,0.05,10.08,2,17,0.0,0.0,,,,,2.0,358.0,9.8,19.87,1379.89,Aggressive Heating,,3.0,face
+57350,Winter,False,0.3,1.98,4,8,0.0,-2.0,,,,,2.0,272.0,80.752,5.02,1136.67,Aggressive Heating,,3.0,face
+57350,Winter,True,0.2,1.27,0,8,0.0,1.0,,,,,2.0,19.0,71.344,5.1,871.0,Aggressive Heating,,4.0,face
+57350,Winter,True,0.37,11.07,-1,15,0.0,0.0,,,,,2.0,177.0,70.952,23.81,1250.64,Aggressive Heating,,4.0,face
+57350,Winter,True,6.57,0.33,0,5,0.0,-1.0,,,,,2.0,5.0,92.904,0.0,793.0,Aggressive Heating,,2.0,face
+57350,Winter,True,1.02,8.75,2,8,0.0,0.0,,,,,2.0,358.0,96.04,5.15,1016.43,Aggressive Heating,,3.0,face
+57350,Winter,False,21.98,2.05,4,16,0.0,0.0,,,,,2.0,272.0,61.152,21.25,1193.5,Aggressive Heating,,3.0,face
+57350,Winter,True,0.42,25.33,0,26,0.0,0.0,,,,,2.0,0.0,50.176,18.22,1049.0,Aggressive Heating,,3.0,face
+57350,Winter,True,1.2,1.22,2,10,0.0,0.0,,,,,2.0,259.0,92.904,20.75,1225.5,Aggressive Heating,,3.0,face
+57350,Winter,True,1.53,20.32,-3,16,0.0,0.0,,,,,2.0,266.0,91.336,54.52,1513.68,Aggressive Heating,,3.0,face
+57350,Winter,True,1.02,1.03,6,7,0.0,1.0,,,,,2.0,172.0,78.792,21.83,1419.33,Aggressive Heating,,4.0,face
+57350,Winter,True,23.7,12.97,0,20,0.0,0.0,,,,,2.0,179.0,28.616,15.79,1092.84,Aggressive Heating,,3.0,face
+57350,Winter,True,2.38,6.03,3,4,0.0,3.0,,,,,2.0,271.0,25.48,0.0,964.62,Aggressive Heating,,4.0,face
+57350,Winter,True,21.63,1.52,5,12,0.0,-1.0,,,,,2.0,358.0,15.68,36.7,1405.0,Aggressive Heating,,3.0,face
+57350,Winter,True,22.93,2.03,0,16,0.0,0.0,,,,,2.0,351.0,14.112,5.7,1577.5,Aggressive Heating,,3.0,face
+57350,Winter,False,20.2,43.62,4,21,0.0,0.0,,,,,2.0,357.0,65.856,27.92,1222.39,Aggressive Heating,,3.0,face
+57350,Winter,False,22.57,14.02,4,25,0.0,0.0,,,,,2.0,175.0,61.936,18.65,1236.44,Aggressive Heating,,3.0,face
+57350,Winter,False,18.63,2.33,14,22,0.0,0.0,,,,,2.0,280.0,61.152,0.0,857.86,Aggressive Heating,,3.0,face
+57350,Spring,True,21.87,8.22,9,22,0.0,0.0,,,,,2.0,258.0,50.96,35.83,1452.64,Aggressive Heating,,3.0,face
+57350,Spring,False,19.62,6.13,11,18,0.0,0.0,,,,,2.0,355.0,37.632,22.66,1359.0,Aggressive Heating,,4.0,face
+57350,Spring,False,19.97,26.77,11,22,0.0,0.0,,,,,2.0,2.0,36.456,15.47,1168.73,Aggressive Heating,,4.0,face
+57350,Spring,True,8.27,22.67,9,18,0.0,0.0,,,,,2.0,170.0,34.104,34.96,1203.17,Aggressive Heating,,4.0,face
+57350,Spring,True,20.15,0.15,11,18,0.0,0.0,,,,,2.0,273.0,27.44,27.3,1041.0,Aggressive Heating,,1.0,face
+57350,Spring,True,21.3,1.1,12,28,0.0,0.0,,,,,2.0,271.0,26.264,17.0,1492.0,Aggressive Heating,,1.0,face
+57350,Spring,True,12.02,10.53,15,31,0.0,-3.0,,,,,2.0,357.0,28.616,5.28,1066.52,Aggressive Cooling,,3.0,face
+57350,Spring,True,12.18,20.37,15,29,0.0,0.0,,,,,2.0,3.0,28.616,8.59,1168.17,Aggressive Cooling,,3.0,face
+57350,Spring,True,10.2,1.65,23,32,-7.0,3.0,,,,,2.0,270.0,19.6,19.33,997.33,Aggressive Cooling,,6.0,face
+57350,Spring,True,18.63,18.9,31,36,3.0,-1.0,,,,,2.0,154.0,67.032,43.91,1308.47,Conventional,18.0,2.0,face
+57350,Spring,True,20.53,8.28,29,32,0.0,0.0,,,,,2.0,271.0,39.592,12.66,1197.89,Conventional,18.0,4.0,face
+57350,Spring,True,12.18,4.83,15,20,0.0,0.0,,,,,2.0,187.0,25.088,22.1,1273.45,Conventional,18.0,3.0,face
+57350,Spring,True,12.87,44.75,32,37,0.0,-1.0,,,,,2.0,269.0,74.48,47.24,1564.08,Aggressive Cooling,,5.0,face
+57350,Spring,True,11.67,2.05,25,34,1.0,2.0,,,,,2.0,268.0,61.936,17.84,1188.2,Aggressive Cooling,,7.0,face
+57350,Spring,True,13.53,5.72,25,31,0.0,-2.0,,,,,2.0,0.0,60.368,22.42,1330.0,Aggressive Cooling,,5.0,face
+57350,Spring,True,12.18,4.65,36,45,0.0,0.0,,,,,2.0,344.0,39.592,11.22,1190.09,Aggressive Cooling,,5.0,face
+57350,Summer,True,12.9,9.77,24,27,0.0,-1.0,,,,,2.0,8.0,16.072,9.24,1267.5,Aggressive Cooling,,3.0,face
+57350,Summer,True,13.68,4.75,24,27,0.0,0.0,,,,,2.0,345.0,14.112,14.13,1489.0,Aggressive Cooling,,3.0,face
+57350,Summer,False,10.48,8.7,33,39,0.0,1.0,,,,,2.0,191.0,34.888,27.47,1449.37,Aggressive Cooling,,6.0,face
+57350,Summer,False,18.32,0.42,30,30,0.0,0.0,,,,,2.0,255.0,45.472,5.3,1268.0,Aggressive Cooling,,6.0,face
