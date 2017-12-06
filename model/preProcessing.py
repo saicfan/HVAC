@@ -27,9 +27,11 @@ for i in range(len(freq_table)):
     vdf = df[df.Vehicle == freq_table.index[i]]
     vdf.index = range(0, len(vdf))
     vdf.to_csv('../data/v%s_%d/logs.csv' % (vehicle, record), index=False)
+    s = vdf['Left Temp Class'].map({'Aggressive Cooling': 16.0, 'Aggressive Heating': 25.0})
+    vdf['Left Temp'] = vdf['Left Temp'].fillna(s)
 
     wvdf = vdf.drop(columns=['Weather - Type', 'Weather - Temp', 'Weather - Wind Speed', 'Weather - Humidity',
-                             'Left Temp Class', 'Left Temp', 'Wind Pattern'])
+                             'Left Temp Class', 'Wind Pattern'])
     wvdf = wvdf[wvdf['Wind Level'].isnull() == False]
     wvdf.index = range(0, len(wvdf))
 
