@@ -95,7 +95,7 @@ for j in range(len(freq_table)):
         wind_x_test = wind_test[wind_columns]
         wind_y_test = wind_test['Wind Level']
 
-        for k in [200, 400, 600, 800]:
+        for k in [200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800]:
             w = wind_train[0: k]
             xx, yy = wind_generate_train(w)
             wind_linear_regression(xx, yy)
